@@ -2,7 +2,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Siddharth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddharth-mahobia-962921250/)](https://www.linkedin.com/in/siddharth-mahobia-962921250/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Siddharth-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Siddharth-yellow)](https://stackoverflow.com/users/20036480/siddharth-mahobia)
 
 I'm

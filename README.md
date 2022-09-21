@@ -5,9 +5,14 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Siddharth-orange)](https://stackoverflow.com/users/20036480/siddharth-mahobia)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+BCA Final Year Student
+I am having interst in HTML , CSS , Javascript. So i am learning more about both Frontend development and Backend development Languages to enhancing my skills and knowlwdg for getting better opportunities in my future . 
 
+The crossover between design and programming has always been of interest to me, I've been lucky enough to being a part of that Full Stack Web development Internship Programme.
+
+To achieve high career growth through a continuous learning process, in terms of programming and development skills, in enhancing my current skill and knowledge in a professional manner by adding value to the organization.
+
+Intend to build a good career in IT industry by exploring and enhancing my knowledge. Also willing to work for the organization where I can utilize my skills and qualifications in a productive manner for the growth of the organization. Being a fresher, I assure my best performance with commitment
 
 ![Visitor Count](https://profile-counter.glitch.me/siddharthmahobia/count.svg)
 
